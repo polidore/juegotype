@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/polidore/juegotype/issues"
   },
-  "homepage": "https://github.com/polidore/juegotype"
+  "homepage": "https://github.com/polidore/juegotype",
+  "dependencies": {
+    "koa": "^0.5.2"
+  }
 }
