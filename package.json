@@ -1,0 +1,23 @@
+{
+  "name": "juegotype",
+  "version": "0.0.0",
+  "description": "Text based gaming engine",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/polidore/juegotype.git"
+  },
+  "keywords": [
+    "gaming",
+    "web"
+  ],
+  "author": "Ben Polidore",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polidore/juegotype/issues"
+  },
+  "homepage": "https://github.com/polidore/juegotype"
+}
